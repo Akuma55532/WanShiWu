@@ -1,0 +1,128 @@
+@media (min-width: 768px) {
+    .news-input{
+        width: 50%;
+    }
+}
+
+body::before{
+    display: block;
+    content: '';
+    height: 56px;
+}
+
+/* 自定义背景颜色 */
+.bg-white {
+    background-color: #FFFFFF !important; /* 白色 */
+}
+.bg-black {
+    background-color: #000000 !important; /* 黑色 */
+}
+.bg-gray {
+    background-color: #808080 !important; /* 灰色 */
+}
+.bg-blue {
+    background-color: #0000FF !important; /* 蓝色 */
+}
+.bg-red {
+    background-color: #FF0000 !important; /* 红色 */
+}
+.bg-green {
+    background-color: #008000 !important; /* 绿色 */
+}
+.bg-yellow {
+    background-color: #FFFF00 !important; /* 黄色 */
+}
+.bg-purple {
+    background-color: #800080 !important; /* 紫色 */
+}
+.bg-pink {
+    background-color: #FFC0CB !important; /* 粉色 */
+}
+.bg-brown {
+    background-color: #A52A2A !important; /* 棕色 */
+}
+.bg-orange {
+    background-color: #FFA500 !important; /* 橙色 */
+}
+
+/* 自定义文本颜色 */
+.text-white {
+    color: #FFFFFF !important; /* 白色 */
+}
+.text-black {
+    color: #000000 !important; /* 黑色 */
+}
+.text-gray {
+    color: #808080 !important; /* 灰色 */
+}
+.text-blue {
+    color: #0000FF !important; /* 蓝色 */
+}
+.text-red {
+    color: #FF0000 !important; /* 红色 */
+}
+.text-green {
+    color: #008000 !important; /* 绿色 */
+}
+.text-yellow {
+    color: #FFFF00 !important; /* 黄色 */
+}
+.text-purple {
+    color: #800080 !important; /* 紫色 */
+}
+.text-pink {
+    color: #FFC0CB !important; /* 粉色 */
+}
+.text-brown {
+    color: #A52A2A !important; /* 棕色 */
+}
+.text-orange {
+    color: #FFA500 !important; /* 橙色 */
+}
+.text-lightblue {
+    color: #ADD8E6 !important; /* 浅蓝色 */
+}
+.text-lightgreen {
+    color: #90EE90 !important; /* 浅绿色 */
+}
+.text-lightgray {
+    color: #D3D3D3 !important; /* 浅灰色 */
+}
+.text-lightyellow {
+    color: #FFFFE0 !important; /* 浅黄色 */
+}
+.text-lightpurple {
+    color: #E6E6FA !important; /* 浅紫色 */
+}
+.text-lightpink {
+    color: #FFB6C1 !important; /* 浅粉色 */
+}
+.text-lightbrown {
+    color: #D2B48C !important; /* 浅棕色 */
+}
+
+/* 自定义边框颜色 */
+.border-orange {
+    border-color: #FFA500 !important; /* 橙色 */
+}
+.border-white {
+    border-color: #FFFFFF !important; /* 白色 */
+}
+.border-black {
+    border-color: #000000 !important; /* 黑色 */
+}
+.border-gray {
+    border-color: #808080 !important; /* 灰色 */
+}
+.border-blue {
+    border-color: #0000FF !important; /* 蓝色 */
+}
+.border-red {
+    border-color: #FF0000 !important; /* 红色 */
+}
+.border-green {
+    border-color: #008000 !important; /* 绿色 */
+}
+.border-yellow {
+    border-color: #FFFF00 !important; /* 黄色 */
+}
