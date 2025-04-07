@@ -24,17 +24,6 @@
 - Bootstrap 5.x
 - JavaScript (可选)
 
----
-
-项目根目录/
-├── index.html       # 主页面文件
-├── css/             # 自定义样式文件
-│   └── styles.css
-├── js/              # 自定义脚本文件
-│   └── scripts.js
-├── img/             # 图片资源
-└── README.md        # 项目说明文档
-
 
 ### 注意事项
 - 将 `您的用户名` 和 `您的仓库名` 替换为您实际的 GitHub 用户名和仓库名称。
